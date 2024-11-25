@@ -303,4 +303,3 @@ cycling_intervals %>%
              data = latest_run)
 
 
-
